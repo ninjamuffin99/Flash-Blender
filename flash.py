@@ -5,6 +5,7 @@ bl_info = {
     "version": (0, 1, 0),
     "blender": (2, 83, 0),
     "category": "Object",
+    "wiki_url": "https://github.com/ninjamuffin99/Flash-Blender",
 }
 
 import bpy
