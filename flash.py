@@ -1,5 +1,8 @@
 bl_info = {
     "name": "Import Animate Spritesheet",
+    "description": "Imports Sparrow formatted spritesheets into Blender",
+    "author": "ninjamuffin99",
+    "version": (0, 1, 0),
     "blender": (2, 83, 0),
     "category": "Object",
 }
